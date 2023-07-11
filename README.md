@@ -8,8 +8,12 @@
 
 - 📫 How to reach me **jaivaradhanr09@gmail.com**
 
+
+<p align="left">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.behance.net/jaivaradhan r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jaivaradhan r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
